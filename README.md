@@ -15,6 +15,7 @@ Current version is functional, but PDF import is still in progress and may be un
 
 ## Known Issues
 - PDF import/parsing is not fully working yet
+- On later versions the PDF library will load correctly but not parse the events distinctly
 - Some edge cases may still cause bugs
 - On later version the time reverts back to military time if text is pasted and a PDF is added in the same run 
 
